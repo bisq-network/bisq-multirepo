@@ -1,0 +1,30 @@
+#  Gradle
+.gradle
+build
+
+# IDEA
+.idea
+*.iml
+
+# macOS
+.DS_Store
+
+# Vim
+*.sw?
+
+# bisq components
+# (see .mrconfig)
+btcnode
+common
+core
+dao
+desktop
+docs
+explorer
+markets
+monitor
+p2p
+pricenode
+seednode
+statsnode
+website

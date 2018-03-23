@@ -1,0 +1,11 @@
+rootProject.name = 'bisq'
+
+['common',
+ 'p2p',
+ 'core',
+ 'desktop',
+ 'monitor',
+ 'pricenode',
+ 'seednode',
+ 'statsnode'
+].each { repo -> if (file(repo).directory) includeBuild(repo) }

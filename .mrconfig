@@ -1,0 +1,41 @@
+[btcnode]
+checkout = git clone git@github.com:bisq-network/btcnode.git btcnode
+
+[common]
+checkout = git clone git@github.com:bisq-network/bisq-common.git common
+
+[core]
+checkout = git clone git@github.com:bisq-network/bisq-core.git core
+
+[dao]
+checkout = git clone git@github.com:bisq-network/dao.git dao
+
+[desktop]
+checkout = git clone git@github.com:bisq-network/bisq-desktop desktop
+
+[docs]
+checkout = git clone git@github.com:bisq-network/docs.git docs
+
+[explorer]
+checkout = git clone git@github.com:bisq-network/bisq-explorer.git explorer
+
+[markets]
+checkout = git clone git@github.com:bisq-network/bisq-markets.git markets
+
+[monitor]
+checkout = git clone git@github.com:bisq-network/bisq-monitor.git monitor
+
+[p2p]
+checkout = git clone git@github.com:bisq-network/bisq-p2p.git p2p
+
+[pricenode]
+checkout = git clone git@github.com:bisq-network/bisq-pricenode.git pricenode
+
+[seednode]
+checkout = git clone git@github.com:bisq-network/bisq-seednode.git seednode
+
+[statsnode]
+checkout = git clone git@github.com:bisq-network/bisq-statsnode.git statsnode
+
+[website]
+checkout = git clone git@github.com:bisq-network/bisq-website.git website
