@@ -2,7 +2,7 @@
 checkout = git clone git@github.com:bisq-network/bisq.git bisq
 
 [btcnode]
-checkout = git clone git@github.com:bisq-network/btcnode.git btcnode
+checkout = git clone git@github.com:bisq-network/bisq-btcnode.git btcnode
 
 [common]
 checkout = git clone git@github.com:bisq-network/bisq-common.git common
