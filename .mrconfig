@@ -16,6 +16,9 @@ checkout = git clone git@github.com:bisq-network/bisq-core.git core
 [dao]
 checkout = git clone git@github.com:bisq-network/dao.git dao
 
+[design]
+checkout = git clone git@github.com:bisq-network/design.git design
+
 [desktop]
 checkout = git clone git@github.com:bisq-network/bisq-desktop desktop
 
