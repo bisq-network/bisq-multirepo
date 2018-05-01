@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/assets" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/btcnode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dao" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dao/analytics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dao/bitcoinj" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dao/btcd-cli4j" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dao/compensation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dao/dns" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dao/events" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dao/forum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dao/github" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dao/growth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dao/libdohj" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dao/lists" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dao/newsletter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dao/private" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dao/proposals" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dao/roles" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dao/slack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dao/style" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dao/support" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dao/youtube" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/design" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/desktop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/explorer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/markets" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/monitor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/p2p" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pricenode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/seednode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/statsnode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/website" vcs="Git" />
+  </component>
+</project>
