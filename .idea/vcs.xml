@@ -1,25 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-    <component name="CommitMessageInspectionProfile">
-        <profile version="1.0">
-            <inspection_tool class="BodyLimit" enabled="true" level="WARNING" enabled_by_default="true"/>
-            <inspection_tool class="SubjectBodySeparation" enabled="true" level="ERROR" enabled_by_default="true"/>
-            <inspection_tool class="SubjectLimit" enabled="true" level="WARNING" enabled_by_default="true">
-                <option name="RIGHT_MARGIN" value="50"/>
-            </inspection_tool>
-        </profile>
-    </component>
-    <component name="VcsDirectoryMappings">
-        <mapping directory="" vcs="Git"/>
-        <mapping directory="$PROJECT_DIR$/assets" vcs="Git"/>
-        <mapping directory="$PROJECT_DIR$/common" vcs="Git"/>
-        <mapping directory="$PROJECT_DIR$/core" vcs="Git"/>
-        <mapping directory="$PROJECT_DIR$/desktop" vcs="Git"/>
-        <mapping directory="$PROJECT_DIR$/monitor" vcs="Git"/>
-        <mapping directory="$PROJECT_DIR$/p2p" vcs="Git"/>
-        <mapping directory="$PROJECT_DIR$/pricenode" vcs="Git"/>
-        <mapping directory="$PROJECT_DIR$/seednode" vcs="Git"/>
-        <mapping directory="$PROJECT_DIR$/statsnode" vcs="Git"/>
-        <mapping directory="$PROJECT_DIR$/relay" vcs="Git"/>
-    </component>
+  <component name="CommitMessageInspectionProfile">
+    <profile version="1.0">
+      <inspection_tool class="BodyLimit" enabled="true" level="WARNING" enabled_by_default="true" />
+      <inspection_tool class="SubjectBodySeparation" enabled="true" level="ERROR" enabled_by_default="true" />
+      <inspection_tool class="SubjectLimit" enabled="true" level="WARNING" enabled_by_default="true">
+        <option name="RIGHT_MARGIN" value="50" />
+      </inspection_tool>
+    </profile>
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/assets" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/desktop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/p2p" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/relay" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/seednode" vcs="Git" />
+  </component>
 </project>
