@@ -1,7 +1,6 @@
 rootProject.name = 'bisq'
 
 ['common',
- 'assets',
  'p2p',
  'core',
  'desktop',
