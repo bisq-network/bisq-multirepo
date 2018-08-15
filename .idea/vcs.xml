@@ -18,7 +18,7 @@
     <mapping directory="$PROJECT_DIR$/monitor" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/p2p" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pricenode" vcs="Git" />
-	<mapping directory="$PROJECT_DIR$/seednode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/seednode" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/statsnode" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/relay" vcs="Git" />
   </component>
