@@ -40,6 +40,9 @@ checkout = git clone git@github.com:bisq-network/bisq-p2p.git p2p
 [pricenode]
 checkout = git clone git@github.com:bisq-network/bisq-pricenode.git pricenode
 
+[relay]
+checkout = git clone git@github.com:bisq-network/bisq-relay.git relay
+
 [seednode]
 checkout = git clone git@github.com:bisq-network/bisq-seednode.git seednode
 
